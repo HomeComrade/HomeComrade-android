@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Home Comrade</string>
+    <string name="remote">Remote</string>
+    <string name="browse">Browse</string>
+    <string name="random_settings">Random Settings</string>
+    <string name="current_playlist">Current Playlist</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="play">Play</string>
+
+    <string name="connections_server">Server:</string>
+    <string name="connections_connect">Connect</string>
+    <string name="connections_save_or_connect">Save or Connect</string>
+    <string name="connections_save">Save</string>
+    <string name="connections_connect_or_delete">Connect or Delete</string>
+    <string name="connections_delete">Delete</string>
+    <string name="connections_connecting">Connecting</string>
+    <string name="connections_connecting_to">Connecting to %1$s</string>
+    <string name="connections_connection_failed">Connection Failed</string>
+    <string name="connections_could_not_connect_to">Could not connect to server: \"%1$s\"</string>
+
+    <string name="browse_fetching_dir">Fetching Directory</string>
+    <string name="browse_file_set_to_play">File(s) set to play</string>
+    <string name="browse_file_added_to_playlist">File(s) added to playlist</string>
+    <string name="browse_play">Play</string>
+    <string name="browse_enqueue">Enqueue</string>
+    <string name="browse_insert_at">Insert At</string>
+    <string name="browse_back">&lt;back&gt;</string>
+    <string name="browse_root_folder">ROOT</string>
+    <string name="browse_directory_listing">Directory Listing</string>
+    <string name="browse_start_of_playlist">--Start--</string>
+    <string name="browse_insert_after">Insert After</string>
+
+    <string name="sending_command">Sending command \"%1$s\"\nTo: %2$s</string>
+    <string name="command_failed">Command \"%1$s\" failed</string>
+    <string name="command_success">Command \"%1$s\" successful</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="empty_playlist_error">Playlist is empty</string>
+
+    <string name="checkmark">checkmark</string>
+
+    <!--<string name="remoteSending">Sending</string>-->
+    <string name="remote_command_queue">Command queue: %1$s</string>
+    <string name="remote_command_status">(Queue: %1$s)\n%2$s</string>
+    <string name="remote_number_of_episodes">Number of Episodes</string>
+    <string name="remote_previous">&#171; Previous</string>
+    <string name="remote_next">Next &#187;</string>
+    <string name="remote_play_pause">Play / Pause</string>
+    <string name="remote_play_file">Play File</string>
+    <string name="remote_back">&#171; Back</string>
+    <string name="remote_forward">Fwd &#187;</string>
+    <string name="remote_skip_title">Skip Title Sequence</string>
+    <string name="remote_random">Random</string>
+    <string name="remote_vol_down">&#9660; Vol Down</string>
+    <string name="remote_vol_up">Vol Up &#9650;</string>
+    <string name="remote_vol_down_tv">&#9660; TV Vol Down</string>
+    <string name="remote_vol_up_tv">TV Vol Up &#9650;</string>
+    <string name="remote_mute_tv">TV Mute</string>
+    <string name="remote_source_tv">TV Source</string>
+    <string name="remote_full_screen">Full Screen</string>
+    <string name="remote_browse">Browse</string>
+    <string name="remote_enqueue">Enqueue</string>
+    <string name="remote_play">Play</string>
+    <string name="remote_select_shows">Select Shows</string>
+    <string name="remote_loading">Loading&#8230;</string>
+    <string name="remote_fetching_available_shows">Fetching Available Shows</string>
+
+    <string name="remote_custom_random_shows_list">Custom Random Shows List</string>
+
+    <string name="menu_random_settings">Random Settings</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_show_controls">Show Controls</string>
+    <string name="menu_last_playlist">Restore Last Playlist</string>
+    <string name="menu_show_current_playlist">Show Current Playlist</string>
+    <string name="menu_quit">Quit</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_power_tv">TV Power</string>
+    <string name="menu_choose_color">Choose Color</string>
+
+</resources>

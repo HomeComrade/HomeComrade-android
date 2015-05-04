@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/actionDisconnect"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_disconnect"/>
+
+    <item
+        android:id="@+id/actionRandomSettings"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_random_settings"/>
+
+    <item
+        android:id="@+id/actionShowControls"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_show_controls"/>
+
+    <item
+        android:id="@+id/actionLastPlaylist"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_last_playlist"/>
+
+    <item
+        android:id="@+id/actionShowCurrentPlaylist"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_show_current_playlist"/>
+
+    <item
+        android:id="@+id/actionPowerTv"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_power_tv"/>
+
+</menu>

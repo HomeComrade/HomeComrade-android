@@ -1,0 +1,39 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activityVerticalMargin"
+    android:paddingLeft="@dimen/activityHorizontalMargin"
+    android:paddingRight="@dimen/activityHorizontalMargin"
+    android:paddingTop="@dimen/activityVerticalMargin"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical">
+<!--
+    <TextView
+        android:id="@+id/serverTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/connections_server" />-->
+
+    <EditText
+        android:id="@+id/serverEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10">
+    </EditText>
+
+    <Button
+        android:id="@+id/connectButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/connections_connect" />
+
+    <ListView
+        android:id="@+id/serverListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" />
+
+</LinearLayout>
